@@ -31,6 +31,7 @@
 </template>
 
 <script>
+import { Button } from 'element-ui';
 export default {
   name: 'HelloWorld',
   props: {
